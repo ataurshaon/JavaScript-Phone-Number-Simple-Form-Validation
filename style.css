@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    text-align: center;
+}
+
+div input{
+    padding: 10px 30px;
+    font-size: 30px;
+}
+
+.text{
+    background-color: blueviolet;
+    color: blanchedalmond;
+    margin-bottom: 20px;
+}
